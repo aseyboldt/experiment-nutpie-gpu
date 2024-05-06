@@ -1,0 +1,4 @@
+[submodule "nutpie"]
+	path = nutpie
+	url = https://github.com/aseyboldt/nutpie
+	branch = gpu
